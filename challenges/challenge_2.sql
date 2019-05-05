@@ -1,6 +1,6 @@
 /**
- * What days of the week do most users register on?
  * We need to figure out when to schedule an ad campaign.
+ * What days of the week do most users register on?
  **/
 
 SELECT
